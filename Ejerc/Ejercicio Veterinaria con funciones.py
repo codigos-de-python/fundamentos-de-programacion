@@ -1,0 +1,3 @@
+import funcionesveterianariaclase
+
+funcionesveterianariaclase.menu()
